@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tatojoel1, a Full stack development.
+- 👋 Hi, I’m @tatojoel1, a Full stack developer.
 - 👀 I’m interested in all developments that I can learn it.
 - 🌱 I’m currently learning React, React Native, Flutter...
 - 💞️ I’m looking to collaborate on All projects with React (NextJS,Gatby), React Navite and Flutter. If you think I can help you, don't doubt and contact me, I'll be very happy to help you✨🙌
